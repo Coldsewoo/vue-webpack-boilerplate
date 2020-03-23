@@ -7,8 +7,6 @@ package-lock.json
 # local env files
 .env.local
 .env.*.local
-vue.config.js
-
 
 # Log files
 npm-debug.log*
@@ -26,10 +24,4 @@ yarn-error.log*
 .editorconfig
 .eslintignore
 
-README.md
-
 # test files
-
-src/views/test.js
-src/views/test.vue
-src/components/blog/test.vue
