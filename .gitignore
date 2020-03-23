@@ -1,0 +1,35 @@
+.DS_Store
+node_modules
+/dist
+/web
+package-lock.json
+
+# local env files
+.env.local
+.env.*.local
+vue.config.js
+
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.editorconfig
+.eslintignore
+
+README.md
+
+# test files
+
+src/views/test.js
+src/views/test.vue
+src/components/blog/test.vue
